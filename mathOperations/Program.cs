@@ -14,7 +14,7 @@ namespace mathOperations
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
             
-            Console.WriteLine($"Subtracting {a} + {b} equals {SubtractNumbers(a,b)}");
+            Console.WriteLine($"Subtracting {a} - {b} equals {SubtractNumbers(a,b)}");
         }
         static int SubtractNumbers(int a, int b)
         {
