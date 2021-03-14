@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Fernando\\.nuget\\packages\\": {}
+    "C:\\Users\\samuel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\IntroGithub\\mathOperations\\mathOperations.csproj",
+      "projectUniqueName": "C:\\Users\\samuel\\Useful_Repos\\LosWinniePOO\\mathOperations\\mathOperations.csproj",
       "projectName": "mathOperations",
-      "projectPath": "C:\\Users\\Fernando\\Desktop\\IntroGithub\\mathOperations\\mathOperations.csproj",
-      "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fernando\\Desktop\\IntroGithub\\mathOperations\\obj\\",
+      "projectPath": "C:\\Users\\samuel\\Useful_Repos\\LosWinniePOO\\mathOperations\\mathOperations.csproj",
+      "packagesPath": "C:\\Users\\samuel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\samuel\\Useful_Repos\\LosWinniePOO\\mathOperations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
